@@ -1,0 +1,6 @@
+﻿  Oop_Set_Ulchenko.cpp
+C:\Users\ulche\Desktop\дсд\DSD_3\DSD_3\Oop_Set_Ulchenko.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SetLab3_Ulchenko.cpp
+C:\Users\ulche\Desktop\дсд\DSD_3\DSD_3\SetLab3_Ulchenko.cpp(120,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  DSD_3.vcxproj -> C:\Users\ulche\Desktop\дсд\DSD_3\Debug\DSD_3.exe
