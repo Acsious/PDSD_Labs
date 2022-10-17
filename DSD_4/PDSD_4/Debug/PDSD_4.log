@@ -1,0 +1,3 @@
+﻿  Set_Cont_List_Ulchenko.cpp
+C:\Users\ulche\Desktop\дсд\PDSD_4\PDSD_4\Set_Cont_List_Ulchenko.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  PDSD_4.vcxproj -> C:\Users\ulche\Desktop\дсд\PDSD_4\Debug\PDSD_4.exe
