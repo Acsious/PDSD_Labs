@@ -1,0 +1,11 @@
+﻿  DSD6.cpp
+  SetLab1_2_Ulchenko.cpp
+D:\хрень\1-2курс\дсд\DSD6\DSD6\SetLab1_2_Ulchenko.cpp(123,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SetLab3_Ulchenko.cpp
+D:\хрень\1-2курс\дсд\DSD6\DSD6\SetLab3_Ulchenko.cpp(97,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SetLab4_Ulchenko.cpp
+D:\хрень\1-2курс\дсд\DSD6\DSD6\SetLab4_Ulchenko.cpp(79,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SetLab5_Ulchenko.cpp
+D:\хрень\1-2курс\дсд\DSD6\DSD6\SetLab5_Ulchenko.cpp(62,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  DSD6.vcxproj -> D:\хрень\1-2курс\дсд\DSD6\Debug\DSD6.exe
