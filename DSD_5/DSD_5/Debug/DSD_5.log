@@ -1,0 +1,3 @@
+﻿  Set_Cont_Set_Ulchenko.cpp
+C:\Users\ulche\Desktop\дсд\DSD_5\DSD_5\Set_Cont_Set_Ulchenko.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  DSD_5.vcxproj -> C:\Users\ulche\Desktop\дсд\DSD_5\Debug\DSD_5.exe
